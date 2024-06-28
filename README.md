@@ -1,2 +1,2 @@
-# TLA-A-6
+# TONGO, JOHN FRANKIE A.
 TLA A-6
